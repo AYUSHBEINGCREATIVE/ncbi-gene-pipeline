@@ -27,7 +27,4 @@ A CSV file containing: Gene ID, Name, Description, Chromosome, Organism
 pip install biopython
 python fetch_genes.py
 ```
-## Certification
-Built as part of self-directed bioinformatics skill development, 
-alongside NPTEL IIT Madras certification in Bioinformatics: 
-Algorithms and Applications (Jan-Apr 2026).
+
