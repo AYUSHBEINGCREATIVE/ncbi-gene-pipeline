@@ -1,3 +1,9 @@
+## Motivation
+Alzheimer's disease affects over 55 million people worldwide. 
+Identifying key genes associated with the disease is a critical 
+first step in computational drug discovery pipelines. This project 
+automates the gene retrieval step using NCBI's Entrez API.
+
 # NCBI Alzheimer's Gene Retrieval Pipeline 🧬
 
 Automated pipeline to fetch gene records associated with Alzheimer's disease 
@@ -21,3 +27,7 @@ A CSV file containing: Gene ID, Name, Description, Chromosome, Organism
 pip install biopython
 python fetch_genes.py
 ```
+## Certification
+Built as part of self-directed bioinformatics skill development, 
+alongside NPTEL IIT Madras certification in Bioinformatics: 
+Algorithms and Applications (Jan-Apr 2026).
